@@ -11,10 +11,10 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: false,
+  showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'http://6bm82.com:82',
+  homeUrl: 'http://www.6bm82.com',
 
   // 网站标题
   title: '精选实用导航网站',
