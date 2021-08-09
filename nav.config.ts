@@ -11,19 +11,19 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: false,
 
   // 您的网站地址，有利于SEO
   homeUrl: 'http://6bm82.com:82',
 
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: '精选实用导航网站',
 
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '精选实用导航网站',
 
   // 网站关键字
-  keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
+  keywords: '导航,资源,社区站点,设计师,实用工具,学习资源,',
 
   // 默认主题: Light | Sim | Side | App | Shortcut
   theme: 'Light',
